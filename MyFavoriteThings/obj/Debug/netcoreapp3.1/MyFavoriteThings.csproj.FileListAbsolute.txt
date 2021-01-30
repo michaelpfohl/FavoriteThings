@@ -1,0 +1,13 @@
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\bin\Debug\netcoreapp3.1\MyFavoriteThings.exe
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\bin\Debug\netcoreapp3.1\MyFavoriteThings.deps.json
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\bin\Debug\netcoreapp3.1\MyFavoriteThings.runtimeconfig.json
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\bin\Debug\netcoreapp3.1\MyFavoriteThings.runtimeconfig.dev.json
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\bin\Debug\netcoreapp3.1\MyFavoriteThings.dll
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\bin\Debug\netcoreapp3.1\MyFavoriteThings.pdb
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.csprojAssemblyReference.cache
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.AssemblyInfoInputs.cache
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.AssemblyInfo.cs
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.csproj.CoreCompileInputs.cache
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.dll
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.pdb
+C:\Users\rmpfo\source\repos\MyFavoriteThings\MyFavoriteThings\obj\Debug\netcoreapp3.1\MyFavoriteThings.genruntimeconfig.cache
